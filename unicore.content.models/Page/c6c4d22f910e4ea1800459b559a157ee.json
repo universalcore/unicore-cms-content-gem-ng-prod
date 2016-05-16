@@ -2,16 +2,16 @@
   "subtitle": "", 
   "description": "Aiki ya ba ni mafita", 
   "language": "hau_NG", 
-  "title": "KINA JIN KA\u018aAICI A DUNIYA?  GA YADDA ZA KI JURE ", 
+  "title": "Kina Jin Ka' Daici A Duniya? Ga Yadda Za Ki Jure ", 
   "primary_category": "f842e57655224ebfa573d1ecc7901a69", 
   "created_at": "2016-05-08T15:41:47+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-05-08T16:19:53.226607+00:00", 
+  "modified_at": "2016-05-16T11:32:21.711334+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 14, 
+  "position": 34, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "scared-stuck-home", 
   "uuid": "c6c4d22f910e4ea1800459b559a157ee"
