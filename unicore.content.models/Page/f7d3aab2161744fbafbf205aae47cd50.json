@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": "Create the perfect password ", 
   "primary_category": "a411e913f1c84d479befbd6af6024965", 
-  "created_at": "2016-04-21T05:44:31.437699+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2016-04-21T05:44:31.438016+00:00", 
+  "created_at": "2016-04-21T05:44:31+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-05-16T11:37:00.072682+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 111, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "create-perfect-password", 
   "uuid": "f7d3aab2161744fbafbf205aae47cd50"
