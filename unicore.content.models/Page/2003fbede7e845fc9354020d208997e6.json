@@ -3,15 +3,15 @@
   "description": "", 
   "language": "hau_NG", 
   "title": "Fara kasuwanci da dan karamin jari ko ma ba ko sisi.", 
-  "primary_category": null, 
-  "created_at": "2016-07-08T15:03:59.844886+00:00", 
+  "primary_category": "7c3bac4f749f4ef1a73a1e02bf3fd699", 
+  "created_at": "2016-07-08T15:03:59+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-08T15:03:59.845080+00:00", 
+  "modified_at": "2016-07-11T23:35:23.498086+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "fara-kasuwanci-da-dan-karamin-jari-ko-ma-ba-ko-sisi", 
   "uuid": "2003fbede7e845fc9354020d208997e6"
