@@ -1,17 +1,17 @@
 {
-  "subtitle": "Tara kudi abu ne mai ban sha'awa, gwada wadannan hanyoyin", 
-  "description": "", 
+  "subtitle": "", 
+  "description": "Tara kudi abu ne mai ban sha'awa, gwada wadannan hanyoyin", 
   "language": "hau_NG", 
   "title": " Hanyoyin tara kudi masu sauki ", 
   "primary_category": "7c3bac4f749f4ef1a73a1e02bf3fd699", 
   "created_at": "2016-07-08T14:59:18+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-28T23:14:40.743746+00:00", 
+  "modified_at": "2016-08-16T12:46:48.240978+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
