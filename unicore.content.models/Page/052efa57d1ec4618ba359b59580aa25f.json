@@ -1,17 +1,17 @@
 {
-  "subtitle": "", 
-  "description": "College or no college, you can become a success.\r\n", 
+  "subtitle": "College or no college, you can become a success.", 
+  "description": "", 
   "language": "eng_GB", 
   "title": "GET A GREAT CAREER!", 
   "primary_category": "a411e913f1c84d479befbd6af6024965", 
-  "created_at": "2016-09-11T08:02:50.843401+00:00", 
+  "created_at": "2016-09-11T08:02:50+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-09-11T08:02:50.843613+00:00", 
+  "modified_at": "2016-09-11T08:03:31.921886+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
